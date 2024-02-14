@@ -59,6 +59,26 @@
         "https://api.github.com/repos/calcom/cal.com",
         "https://api.github.com/repos/calcom/synclinear.com"
       ]
+    },
+    {
+      "id": "h97Qwp1fZf6MliHmXsdxS",
+      "name": "How?",
+      "description": "hehe",
+      "slug": "whattttttttt",
+      "website": "https://cal.com",
+      "github": "https://github.com/calcom",
+      "tags": [
+        "react",
+        "nextjs",
+        "t3-stack",
+        "typescript",
+        "javascript",
+        "trpc"
+      ],
+      "repos": [
+        "https://api.github.com/repos/calcom/cal.com",
+        "https://api.github.com/repos/calcom/synclinear.com"
+      ]
     }
   ]
 }
