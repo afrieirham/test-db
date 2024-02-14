@@ -1,0 +1,1174 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "name": "Cal.com",
+      "description": "Scheduling infrastructure for absolutely everyone.",
+      "slug": "calcom",
+      "website": "https://cal.com",
+      "github": "https://github.com/calcom",
+      "tags": [
+        "react",
+        "nextjs",
+        "t3-stack",
+        "typescript",
+        "javascript",
+        "trpc"
+      ],
+      "repos": [
+        "https://api.github.com/repos/calcom/cal.com",
+        "https://api.github.com/repos/calcom/synclinear.com"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "RailsDevs.com",
+      "description": "The reverse job board for Ruby on Rails developers.",
+      "slug": "railsdevs",
+      "website": "https://railsdevs.com",
+      "github": "https://github.com/joemasilotti/railsdevs.com",
+      "tags": ["ruby on rails", "ruby"],
+      "repos": ["https://api.github.com/repos/joemasilotti/railsdevs.com"]
+    },
+    {
+      "id": 3,
+      "name": "Supabase",
+      "description": "The open source Firebase alternative.",
+      "tags": ["nextjs", "typescript", "react"],
+      "slug": "supabase",
+      "website": "https://supabase.com",
+      "github": "https://github.com/supabase",
+      "repos": ["https://api.github.com/repos/supabase/supabase"]
+    },
+    {
+      "id": 4,
+      "name": "Helicone",
+      "description": "Tooling for Generative AI",
+      "tags": ["nextjs", "typescript", "react", "python"],
+      "slug": "helicone",
+      "website": "https://www.helicone.ai",
+      "github": "https://github.com/Helicone",
+      "repos": ["https://api.github.com/repos/Helicone/helicone"]
+    },
+    {
+      "id": 5,
+      "name": "Payload",
+      "description": "Built with React + TypeScript, Payload is a free and open-source Headless CMS.",
+      "tags": ["react", "typescript", "javascript"],
+      "slug": "payloadcms",
+      "website": "https://payloadcms.com",
+      "github": "https://github.com/payloadcms",
+      "repos": ["https://api.github.com/repos/payloadcms/payload"]
+    },
+    {
+      "id": 6,
+      "name": "Mirrorful",
+      "description": "Create the building blocks of your app",
+      "tags": ["nextjs", "typescript", "react"],
+      "slug": "mirrorful",
+      "website": "https://mirrorful.com",
+      "github": "https://github.com/Mirrorful",
+      "repos": ["https://api.github.com/repos/Mirrorful/mirrorful"]
+    },
+    {
+      "id": 7,
+      "name": "Infisical",
+      "description": "Infisical is an open-source, E2EE, and simple tool to sync environment variables across your team and infrastructure.",
+      "tags": ["nextjs", "typescript", "react", "golang"],
+      "slug": "infisical",
+      "website": "https://infisical.com",
+      "github": "https://github.com/Infisical",
+      "repos": ["https://api.github.com/repos/Infisical/infisical"]
+    },
+    {
+      "id": 8,
+      "name": "highlight.io",
+      "description": "highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more.",
+      "tags": ["golang", "typescript", "javascript", "react"],
+      "slug": "highlight",
+      "website": "https://www.highlight.io",
+      "github": "https://github.com/highlight",
+      "repos": ["https://api.github.com/repos/highlight/highlight"]
+    },
+    {
+      "id": 9,
+      "name": "Reworkd",
+      "description": "Assemble, configure, and deploy autonomous AI Agents in your browser.",
+      "tags": ["nextjs", "typescript", "t3-stack", "python"],
+      "slug": "reworkd",
+      "website": "https://agentgpt.reworkd.ai",
+      "github": "https://github.com/reworkd",
+      "repos": ["https://api.github.com/repos/reworkd/AgentGPT"]
+    },
+    {
+      "id": 10,
+      "name": "Keep",
+      "description": "Open source alerts management platform",
+      "tags": ["python", "nextjs", "typescript", "javascript"],
+      "slug": "keep",
+      "website": "https://www.keephq.dev",
+      "github": "https://github.com/keephq",
+      "repos": ["https://api.github.com/repos/keephq/keep"]
+    },
+    {
+      "id": 11,
+      "name": "Nango",
+      "description": "Open-source product integration: Easily integrate you app with any external API",
+      "tags": ["react", "typescript", "javascript"],
+      "slug": "nango",
+      "website": "https://www.nango.dev",
+      "github": "https://github.com/NangoHQ",
+      "repos": ["https://api.github.com/repos/NangoHQ/nango"]
+    },
+    {
+      "id": 12,
+      "name": "Trigger.dev",
+      "description": "The developer-first open source Zapier alternative.",
+      "tags": ["react", "typescript", "remix"],
+      "slug": "triggerdotdev",
+      "website": "https://www.trigger.dev",
+      "github": "https://github.com/triggerdotdev",
+      "repos": [
+        "https://api.github.com/repos/triggerdotdev/trigger.dev",
+        "https://api.github.com/repos/triggerdotdev/jsonhero-web"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Flower",
+      "description": "Flower: A Friendly Federated Learning Framework",
+      "tags": ["python", "pytorch", "tensorflow"],
+      "slug": "flower",
+      "website": "https://flower.dev",
+      "github": "https://github.com/adap",
+      "repos": ["https://api.github.com/repos/adap/flower"]
+    },
+    {
+      "id": 14,
+      "name": "Lotus",
+      "description": "Open Source Pricing & Packaging Infrastructure",
+      "tags": [
+        "python",
+        "django",
+        "typescript",
+        "react",
+        "javascript",
+        "golang"
+      ],
+      "slug": "lotus",
+      "website": "https://www.uselotus.io",
+      "github": "https://github.com/uselotus",
+      "repos": ["https://api.github.com/repos/uselotus/lotus"]
+    },
+    {
+      "id": 15,
+      "name": "Supertokens",
+      "description": "Open source alternative to Auth0 / Firebase Auth / AWS Cognito",
+      "tags": ["java", "react", "typescript"],
+      "slug": "supertokens",
+      "website": "https://supertokens.com",
+      "github": "https://github.com/supertokens",
+      "repos": [
+        "https://api.github.com/repos/supertokens/supertokens-core",
+        "https://api.github.com/repos/supertokens/supertokens-website",
+        "https://api.github.com/repos/supertokens/dashboard"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Forem",
+      "description": "Forem is open source software for building communities. Communities for your peers, customers, fanbases, families, friends, and any other time and space where people need to come together to be part of a collective.",
+      "tags": [
+        "ruby on rails",
+        "ruby",
+        "preact",
+        "typescript",
+        "react",
+        "kotlin",
+        "swift",
+        "ios",
+        "android"
+      ],
+      "slug": "forem",
+      "website": "https://www.forem.com",
+      "github": "https://github.com/forem",
+      "repos": [
+        "https://api.github.com/repos/forem/forem",
+        "https://api.github.com/repos/forem/DEV-Android",
+        "https://api.github.com/repos/forem/DEV-ios"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Sylius",
+      "description": "Open Source eCommerce Framework on Symfony",
+      "tags": ["symfony", "php"],
+      "slug": "sylius",
+      "website": "https://sylius.com",
+      "github": "https://github.com/Sylius",
+      "repos": ["https://api.github.com/repos/Sylius/Sylius"]
+    },
+    {
+      "id": 18,
+      "name": "Invoice Ninja",
+      "description": "Free Invoicing Software for Small Businesses built with Laravel, Flutter and React",
+      "tags": ["laravel", "php", "flutter", "dart", "react", "typescript"],
+      "slug": "invoiceninja",
+      "website": "https://invoiceninja.com/",
+      "github": "https://github.com/invoiceninja",
+      "repos": [
+        "https://api.github.com/repos/invoiceninja/invoiceninja",
+        "https://api.github.com/repos/invoiceninja/ui",
+        "https://api.github.com/repos/invoiceninja/admin-portal"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Medusa",
+      "description": "Building blocks for digital commerce",
+      "tags": ["react", "nodejs", "javascript", "typescript"],
+      "slug": "medusa",
+      "website": "https://medusajs.com",
+      "github": "https://github.com/medusajs",
+      "repos": [
+        "https://api.github.com/repos/medusajs/medusa",
+        "https://api.github.com/repos/medusajs/admin"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Hoppscotch",
+      "description": "Open source API development ecosystem.",
+      "tags": ["vuejs", "javascript", "typescript"],
+      "slug": "hoppscotch",
+      "website": "https://hoppscotch.com",
+      "github": "https://github.com/hoppscotch",
+      "repos": ["https://api.github.com/repos/hoppscotch/hoppscotch"]
+    },
+    {
+      "id": 21,
+      "name": "Ghost",
+      "description": "Turn your audience into a business. Publishing, newsletters, memberships and subscriptions — all in one place.",
+      "tags": ["javascript", "react", "ember"],
+      "slug": "ghost",
+      "website": "https://ghost.org",
+      "github": "https://github.com/TryGhost",
+      "repos": ["https://api.github.com/repos/TryGhost/Ghost"]
+    },
+    {
+      "id": 22,
+      "name": "Strapi",
+      "description": "Build powerful back-end with no effort.",
+      "tags": ["typescript", "react", "koa"],
+      "slug": "strapi",
+      "website": "https://strapi.io",
+      "github": "https://github.com/strapi",
+      "repos": [
+        "https://api.github.com/repos/strapi/strapi",
+        "https://api.github.com/repos/strapi/design-system"
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Plausible",
+      "description": "Simple, open source, lightweight (< 1 KB) and privacy-friendly alternative to Google Analytics.",
+      "tags": ["elixir", "react", "javascript"],
+      "slug": "plausible",
+      "website": "https://plausible.io",
+      "github": "https://github.com/plausible",
+      "repos": [
+        "https://api.github.com/repos/plausible/analytics",
+        "https://api.github.com/repos/plausible/wordpress"
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Prefect",
+      "description": "The easiest way to orchestrate and observe your data pipelines",
+      "tags": ["python", "vuejs", "javascript"],
+      "slug": "prefect",
+      "website": "https://www.prefect.io/",
+      "github": "https://github.com/PrefectHQ",
+      "repos": [
+        "https://api.github.com/repos/PrefectHQ/prefect",
+        "https://api.github.com/repos/PrefectHQ/marvin"
+      ]
+    },
+    {
+      "id": 25,
+      "name": "CariSurau.com",
+      "description": "Discover Your Perfect Prayer Haven with Ease!",
+      "tags": ["typescript", "react", "nextjs"],
+      "slug": "carisurau",
+      "website": "https://carisurau.com/",
+      "github": "https://github.com/farhan-helmy/ratemysurau",
+      "repos": ["https://api.github.com/repos/farhan-helmy/ratemysurau"]
+    },
+    {
+      "id": 26,
+      "name": "Malaya Toolkit",
+      "description": "Natural Language Toolkit & Speech Toolkit for Bahasa Malaysia",
+      "tags": ["tensorflow", "python", "jupyter notebook"],
+      "slug": "malaya-toolkit",
+      "website": "",
+      "github": "https://github.com/huseinzol05",
+      "repos": [
+        "https://api.github.com/repos/huseinzol05/malaya",
+        "https://api.github.com/repos/huseinzol05/malaya-speech"
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Plane",
+      "description": "An open source tool for building software.",
+      "tags": ["django", "python", "react", "nextjs", "typescript"],
+      "slug": "plane",
+      "website": "https://plane.so/",
+      "github": "https://github.com/makeplane",
+      "repos": [
+        "https://api.github.com/repos/makeplane/plane",
+        "https://api.github.com/repos/makeplane/docs"
+      ]
+    },
+    {
+      "id": 28,
+      "name": "APITable",
+      "description": "The best Airtable open-source alternative and an API-oriented Visual Database",
+      "tags": ["react", "nextjs", "typescript", "java", "spring", "nestjs"],
+      "slug": "apitable",
+      "website": "https://apitable.com/",
+      "github": "https://github.com/apitable",
+      "repos": ["https://api.github.com/repos/apitable/apitable"]
+    },
+    {
+      "id": 29,
+      "name": "Nhost",
+      "description": "The Open Source Firebase Alternative with GraphQL.",
+      "tags": ["react", "nextjs", "typescript"],
+      "slug": "nhost",
+      "website": "https://nhost.io/",
+      "github": "hhttps://github.com/nhost",
+      "repos": ["https://api.github.com/repos/nhost/nhost"]
+    },
+    {
+      "id": 30,
+      "name": "SuperAGI",
+      "description": "<⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.",
+      "tags": ["react", "nextjs", "python"],
+      "slug": "superagi",
+      "website": "https://superagi.com/",
+      "github": "https://github.com/TransformerOptimus/SuperAGI",
+      "repos": ["https://api.github.com/repos/TransformerOptimus/SuperAGI"]
+    },
+    {
+      "id": 31,
+      "name": "ToolJet",
+      "description": "Open-source low-code application development platform for building and deploying business applications.",
+      "tags": ["react", "typescript", "javascript", "nestjs"],
+      "slug": "tooljet",
+      "website": "https://www.tooljet.com/",
+      "github": "https://github.com/ToolJet",
+      "repos": ["https://api.github.com/repos/ToolJet/ToolJet"]
+    },
+    {
+      "id": 32,
+      "name": "TinaCMS",
+      "description": "A CMS backed by Git with visual editing",
+      "tags": ["react", "nextjs", "typescript"],
+      "slug": "tinacms",
+      "website": "https://tina.io/",
+      "github": "https://github.com/tinacms",
+      "repos": [
+        "https://api.github.com/repos/tinacms/tinacms",
+        "https://api.github.com/repos/tinacms/tina.io"
+      ]
+    },
+    {
+      "id": 33,
+      "name": "dub",
+      "description": "An open-source link shortener with built-in analytics + free custom domains.",
+      "tags": ["react", "nextjs", "typescript"],
+      "slug": "dub",
+      "website": "https://dub.sh/",
+      "github": "https://github.com/steven-tey/dub",
+      "repos": ["https://api.github.com/repos/steven-tey/dub"]
+    },
+    {
+      "id": 34,
+      "name": "Plasmic",
+      "description": "Visual page builder and web design tool for any website or web app tech stack",
+      "tags": ["react", "nextjs", "typescript"],
+      "slug": "plasmic",
+      "website": "https://www.plasmic.app/",
+      "github": "https://github.com/plasmicapp",
+      "repos": ["https://api.github.com/repos/plasmicapp/plasmic"]
+    },
+    {
+      "id": 35,
+      "name": "Typebot",
+      "description": "💬 Typebot is a powerful chatbot builder that you can self-host.",
+      "tags": ["react", "nextjs", "typescript"],
+      "slug": "typebot",
+      "website": "https://typebot.io/",
+      "github": "https://github.com/baptisteArno/typebot.io",
+      "repos": ["https://api.github.com/repos/baptisteArno/typebot.io"]
+    },
+    {
+      "id": 36,
+      "name": "Documenso",
+      "description": "Documenso - The DocuSign Open Source Alternative.",
+      "tags": ["react", "nextjs", "typescript"],
+      "slug": "documenso",
+      "website": "https://documenso.com/",
+      "github": "https://github.com/documenso",
+      "repos": ["https://api.github.com/repos/documenso/documenso"]
+    },
+    {
+      "id": 37,
+      "name": "Reactive Resume",
+      "description": "A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!",
+      "tags": ["react", "nextjs", "typescript", "nestjs"],
+      "slug": "reactive-resume",
+      "website": "https://rxresu.me/",
+      "github": "https://github.com/AmruthPillai/Reactive-Resume",
+      "repos": ["https://api.github.com/repos/AmruthPillai/Reactive-Resume"]
+    },
+    {
+      "id": 38,
+      "name": "amplication",
+      "description": "Develop quality Node.js applications without spending time on repetitive coding tasks",
+      "tags": ["nestjs", "typescript", "react"],
+      "slug": "amplication",
+      "website": "https://amplication.com/",
+      "github": "https://github.com/amplication",
+      "repos": ["https://api.github.com/repos/amplication/amplication"]
+    },
+    {
+      "id": 39,
+      "name": "Directus",
+      "description": "An instant no-code App and dynamic API for any SQL database.",
+      "tags": ["vuejs", "typescript"],
+      "slug": "directus",
+      "website": "https://directus.io/",
+      "github": "https://github.com/directus",
+      "repos": ["https://api.github.com/repos/directus/directus"]
+    },
+    {
+      "id": 40,
+      "name": "Vue Storefront",
+      "description": "Vue Storefront is the Lighting-Fast Frontend Platform for Headless Commerce",
+      "tags": ["vuejs", "nuxtjs", "typescript", "expressjs", "react", "nextjs"],
+      "slug": "vue-storefront",
+      "website": "https://www.vuestorefront.io/",
+      "github": "https://github.com/vuestorefront",
+      "repos": [
+        "https://api.github.com/repos/vuestorefront/vue-storefront",
+        "https://api.github.com/repos/vuestorefront/storefront-ui"
+      ]
+    },
+    {
+      "id": 41,
+      "name": "Habitica",
+      "description": "A habit tracker app which treats your goals like a Role Playing Game.",
+      "tags": [
+        "vuejs",
+        "expressjs",
+        "javascript",
+        "nodejs",
+        "android",
+        "kotlin",
+        "java",
+        "ios",
+        "swift"
+      ],
+      "slug": "habitica",
+      "website": "https://habitica.com/static/home",
+      "github": "https://github.com/HabitRPG",
+      "repos": [
+        "https://api.github.com/repos/HabitRPG/habitica",
+        "https://api.github.com/repos/HabitRPG/habitica-android",
+        "https://api.github.com/repos/HabitRPG/habitica-ios"
+      ]
+    },
+    {
+      "id": 42,
+      "name": "Builder.io",
+      "description": "The visual headless CMS",
+      "tags": ["react", "nextjs", "typescript"],
+      "slug": "builderio",
+      "website": "https://builder.io/",
+      "github": "https://github.com/BuilderIO",
+      "repos": ["https://api.github.com/repos/BuilderIO/mitosis"]
+    },
+    {
+      "id": 43,
+      "name": "Appsmith",
+      "description": "A powerful open-source framework to build internal tools.",
+      "tags": ["react", "typescript", "java"],
+      "slug": "appsmith",
+      "website": "https://www.appsmith.com/",
+      "github": "https://github.com/appsmithorg",
+      "repos": ["https://api.github.com/repos/appsmithorg/appsmith"]
+    },
+    {
+      "id": 44,
+      "name": "Appwrite",
+      "description": "End to end backend server for frontend and mobile developers. 👩‍💻👨‍💻",
+      "tags": ["php", "utopia-php", "svelte", "typescript"],
+      "slug": "appwrite",
+      "website": "https://appwrite.io/",
+      "github": "https://github.com/appwrite",
+      "repos": [
+        "https://api.github.com/repos/appwrite/appwrite",
+        "https://api.github.com/repos/appwrite/console"
+      ]
+    },
+    {
+      "id": 45,
+      "name": "crowd.dev",
+      "description": "Open-source community and data tools built to unlock community-led growth for developer tools.",
+      "tags": ["expressjs", "typescript", "vuejs"],
+      "slug": "CrowdDotDev",
+      "website": "https://www.crowd.dev/",
+      "github": "https://github.com/CrowdDotDev",
+      "repos": ["https://api.github.com/repos/CrowdDotDev/crowd.dev"]
+    },
+    {
+      "id": 46,
+      "name": "Dragonfly",
+      "description": "Dragonfly is a drop-in Redis replacement that is high-performance and low-complexity. Millions of QPS and terabyte-sized workloads, all on a single instance.",
+      "tags": ["c++"],
+      "slug": "dragonfly",
+      "website": "https://www.dragonflydb.io/",
+      "github": "https://github.com/dragonflydb",
+      "repos": ["https://api.github.com/repos/dragonflydb/dragonfly"]
+    },
+    {
+      "id": 47,
+      "name": "Edgeless Systems",
+      "description": "Building super-secure and easy-to-use software for Confidential Computing",
+      "tags": ["golang"],
+      "slug": "edgelesssystem",
+      "website": "https://www.edgeless.systems/",
+      "github": "https://github.com/edgelesssys",
+      "repos": [
+        "https://api.github.com/repos/edgelesssys/constellation",
+        "https://api.github.com/repos/edgelesssys/edgelessdb",
+        "https://api.github.com/repos/edgelesssys/marblerun",
+        "https://api.github.com/repos/edgelesssys/ego"
+      ]
+    },
+    {
+      "id": 48,
+      "name": "ElectricSQL",
+      "description": "Local-first software platform for developing instantly reactive apps with realtime multi-user and conflict-free offline support.",
+      "tags": ["elixir", "typescript"],
+      "slug": "electric-sql",
+      "website": "https://electric-sql.com/",
+      "github": "https://github.com/electric-sql",
+      "repos": ["https://api.github.com/repos/electric-sql/electric"]
+    },
+    {
+      "id": 49,
+      "name": "erxes Inc",
+      "description": "Single experience operating system (XOS) to align your entire business",
+      "tags": ["typescript", "react", "nextjs"],
+      "slug": "erxes",
+      "website": "https://erxes.io/",
+      "github": "https://github.com/erxes",
+      "repos": ["https://api.github.com/repos/erxes/erxes"]
+    },
+    {
+      "id": 50,
+      "name": "Formbricks",
+      "description": "Open Source Surveys & Experience Management Solution",
+      "tags": ["nextjs", "react", "typescript"],
+      "slug": "formbricks",
+      "website": "https://formbricks.com/",
+      "github": "https://github.com/formbricks",
+      "repos": ["https://api.github.com/repos/formbricks/formbricks"]
+    },
+    {
+      "id": 51,
+      "name": "Giskard",
+      "description": "Eliminate risks of AI errors, privacy issues & biases. Built in Europe 🇫🇷 🇪🇺",
+      "tags": ["python", "java", "vuejs", "typescript"],
+      "slug": "giskard",
+      "website": "https://www.giskard.ai/",
+      "github": "https://github.com/Giskard-AI",
+      "repos": ["https://api.github.com/repos/Giskard-AI/giskard"]
+    },
+    {
+      "id": 52,
+      "name": "Hanko",
+      "description": "For an internet without passwords.",
+      "tags": ["golang", "typescript"],
+      "slug": "hanko",
+      "website": "https://www.hanko.io/",
+      "github": "https://github.com/teamhanko",
+      "repos": ["https://api.github.com/repos/teamhanko/hanko"]
+    },
+    {
+      "id": 53,
+      "name": "HumanSignal",
+      "description": "Data labeling and exploration tools for Machine Learning",
+      "tags": ["python", "react", "javascript", "typescript"],
+      "slug": "humansignal",
+      "website": "https://humansignal.com/",
+      "github": "https://github.com/heartexlabs",
+      "repos": [
+        "https://api.github.com/repos/heartexlabs/label-studio",
+        "https://api.github.com/repos/heartexlabs/label-studio-frontend"
+      ]
+    },
+    {
+      "id": 54,
+      "name": "Lago",
+      "description": "Open Source Metering and Usage Based Billing",
+      "tags": ["react", "typescript", "ruby on rails", "ruby"],
+      "slug": "lago",
+      "website": "https://www.getlago.com/",
+      "github": "https://github.com/getlago",
+      "repos": [
+        "https://api.github.com/repos/getlago/lago",
+        "https://api.github.com/repos/getlago/lago-api",
+        "https://api.github.com/repos/getlago/lago-front"
+      ]
+    },
+    {
+      "id": 55,
+      "name": "Meteor",
+      "description": "An open source platform for building web, mobile and desktop apps in JavaScript or TypeScript.",
+      "tags": ["javascript"],
+      "slug": "meteor",
+      "website": "https://www.meteor.com/cloud",
+      "github": "https://github.com/meteor",
+      "repos": ["https://api.github.com/repos/meteor/meteor"]
+    },
+    {
+      "id": 56,
+      "name": "Novu",
+      "description": "The open-source notification infrastructure for developers",
+      "tags": ["react", "typescript"],
+      "slug": "novu",
+      "website": "https://novu.co/",
+      "github": "https://github.com/novuhq",
+      "repos": ["https://api.github.com/repos/novuhq/novu"]
+    },
+    {
+      "id": 57,
+      "name": "PostHog",
+      "description": "Open-source product analytics platform",
+      "tags": ["react", "typescript", "gatsby", "python"],
+      "slug": "posthog",
+      "website": "https://posthog.com/",
+      "github": "https://github.com/PostHog",
+      "repos": [
+        "https://api.github.com/repos/PostHog/posthog",
+        "https://api.github.com/repos/PostHog/posthog.com",
+        "https://api.github.com/repos/PostHog/HouseWatch"
+      ]
+    },
+    {
+      "id": 58,
+      "name": "Qdrant",
+      "description": "Creating advanced vector search technology",
+      "tags": ["rust"],
+      "slug": "qdrant",
+      "website": "https://qdrant.tech/",
+      "github": "https://github.com/qdrant",
+      "repos": [
+        "https://api.github.com/repos/qdrant/qdrant",
+        "https://api.github.com/repos/qdrant/landing_page"
+      ]
+    },
+    {
+      "id": 59,
+      "name": "QuestDB",
+      "description": "QuestDB is the fastest open source time-series database",
+      "tags": ["java", "react", "typescript"],
+      "slug": "questdb",
+      "website": "https://questdb.io/",
+      "github": "https://github.com/questdb",
+      "repos": [
+        "https://api.github.com/repos/questdb/questdb",
+        "https://api.github.com/repos/questdb/ui",
+        "https://api.github.com/repos/questdb/questdb.io"
+      ]
+    },
+    {
+      "id": 60,
+      "name": "Tailwarden",
+      "description": "Build your cloud asset inventory and uncover insights (cost wasted, security threads and compliance issues) 👀",
+      "tags": ["golang", "nextjs", "react", "typescript"],
+      "slug": "tailwarden",
+      "website": "https://www.tailwarden.com/",
+      "github": "https://github.com/tailwarden",
+      "repos": [
+        "https://api.github.com/repos/tailwarden/komiser",
+        "https://api.github.com/repos/tailwarden/komiser.io",
+        "https://api.github.com/repos/questdb/questdb.io"
+      ]
+    },
+    {
+      "id": 61,
+      "name": "United Manufacturing Hub",
+      "description": "Scale the Industrial IoT. Bringing the worlds best IT and OT tools into the hands of the engineer.",
+      "tags": ["golang"],
+      "slug": "united-manufacturing-hub",
+      "website": "https://www.umh.app/",
+      "github": "https://github.com/united-manufacturing-hub",
+      "repos": [
+        "https://api.github.com/repos/united-manufacturing-hub/united-manufacturing-hub"
+      ]
+    },
+    {
+      "id": 62,
+      "name": "Widgetbook",
+      "description": "Widgetbook is an open source Flutter package accelerating the widget development and review process.",
+      "tags": ["flutter", "dart"],
+      "slug": "widgetbook",
+      "website": "https://www.widgetbook.io/",
+      "github": "https://github.com/widgetbook",
+      "repos": ["https://api.github.com/repos/widgetbook/widgetbook"]
+    },
+    {
+      "id": 63,
+      "name": "ZenML",
+      "description": "Building production MLOps tooling.",
+      "tags": ["python", "react", "typescript"],
+      "slug": "zenml",
+      "website": "https://zenml.io/home",
+      "github": "https://github.com/zenml-io",
+      "repos": [
+        "https://api.github.com/repos/zenml-io/zenml",
+        "https://api.github.com/repos/zenml-io/zenml-dashboard"
+      ]
+    },
+    {
+      "id": 64,
+      "name": "Ta Vivo",
+      "description": "Monitoring APIs or web services based on a configurable time interval and get notifications via Discord, Email, Slack, Telegram or WhatsApp.",
+      "tags": ["vuejs", "javascript", "expressjs", "react", "nextjs"],
+      "slug": "tavivo",
+      "website": "https://landing.tavivo.do/",
+      "github": "https://github.com/ta-vivo",
+      "repos": [
+        "https://api.github.com/repos/ta-vivo/ta-vivo",
+        "https://api.github.com/repos/ta-vivo/ta-vivo-api",
+        "https://api.github.com/repos/ta-vivo/ta-vivo-landing",
+        "https://api.github.com/repos/ta-vivo/ta-vivo-whatsapp-service"
+      ]
+    },
+    {
+      "id": 65,
+      "name": "freeCodeCamp",
+      "description": "Learn to code for free with millions of other people around the world",
+      "tags": [
+        "react",
+        "nextjs",
+        "typescript",
+        "javascript",
+        "flutter",
+        "dart"
+      ],
+      "slug": "freeCodeCamp",
+      "website": "http://freecodecamp.org",
+      "github": "https://github.com/freeCodeCamp",
+      "repos": [
+        "https://api.github.com/repos/freeCodeCamp/freeCodeCamp",
+        "https://api.github.com/repos/freeCodeCamp/classroom",
+        "https://api.github.com/repos/freeCodeCamp/mobile"
+      ]
+    },
+    {
+      "id": 66,
+      "name": "Sentry",
+      "description": "Real-time crash reporting for your web apps, mobile apps, and games.",
+      "tags": ["react", "typescript", "django", "python", "rust"],
+      "slug": "sentry",
+      "website": "https://sentry.io/",
+      "github": "https://github.com/getsentry",
+      "repos": [
+        "https://api.github.com/repos/getsentry/sentry",
+        "https://api.github.com/repos/getsentry/relay",
+        "https://api.github.com/repos/getsentry/symbolicator",
+        "https://api.github.com/repos/getsentry/symbolic"
+      ]
+    },
+    {
+      "id": 67,
+      "name": "Healthchecks",
+      "description": "Open-source cron job and background task monitoring",
+      "tags": ["python", "django"],
+      "slug": "healthchecks",
+      "website": "https://healthchecks.io/",
+      "github": "https://github.com/healthchecks",
+      "repos": [
+        "https://api.github.com/repos/healthchecks/healthchecks",
+        "https://api.github.com/repos/healthchecks/dashboard"
+      ]
+    },
+    {
+      "id": 68,
+      "name": "Weblate",
+      "description": "Weblate, the web-based continuous localization system.",
+      "tags": ["python", "django"],
+      "slug": "weblate",
+      "website": "https://weblate.org/en",
+      "github": "https://github.com/WeblateOrg",
+      "repos": [
+        "https://api.github.com/repos/WeblateOrg/weblate",
+        "https://api.github.com/repos/WeblateOrg/website"
+      ]
+    },
+    {
+      "id": 69,
+      "name": "Saleor Commerce",
+      "description": "The commerce API that puts developers first.",
+      "tags": ["python", "django", "typescript", "react", "nextjs"],
+      "slug": "saleor",
+      "website": "https://saleor.io/",
+      "github": "https://github.com/saleor",
+      "repos": [
+        "https://api.github.com/repos/saleor/saleor",
+        "https://api.github.com/repos/saleor/saleor-dashboard",
+        "https://api.github.com/repos/saleor/react-storefront"
+      ]
+    },
+    {
+      "id": 70,
+      "name": "Skiff",
+      "description": "Privacy-first, end-to-end encrypted Mail, Pages, Drive, and Calendar.",
+      "tags": ["react", "nextjs", "typescript", "c#"],
+      "slug": "skiff",
+      "website": "https://skiff.com/",
+      "github": "https://github.com/skiff-org",
+      "repos": [
+        "https://api.github.com/repos/skiff-org/skiff-apps",
+        "https://api.github.com/repos/skiff-org/skiff-windows-app"
+      ]
+    },
+    {
+      "id": 71,
+      "name": "Spacedrive",
+      "description": "A file explorer from the future",
+      "tags": [
+        "rust",
+        "tauri",
+        "react native",
+        "react",
+        "typescript",
+        "swift",
+        "macos",
+        "ios",
+        "c#",
+        "kotlin",
+        "android"
+      ],
+      "slug": "spacedrive",
+      "website": "https://www.spacedrive.com/",
+      "github": "https://github.com/spacedriveapp",
+      "repos": ["https://api.github.com/repos/spacedriveapp/spacedrive"]
+    },
+    {
+      "id": 72,
+      "name": "AFFiNE",
+      "description": "AFFiNE: Write, Draw, Plan - a next-gen knowledge base and open-source alternative to Notion & Miro.",
+      "tags": [
+        "electron",
+        "nestjs",
+        "typescript",
+        "react",
+        "nextjs",
+        "rust",
+        "swift",
+        "kotlin",
+        "vuejs",
+        "nuxtjs"
+      ],
+      "slug": "affine",
+      "website": "https://affine.pro/",
+      "github": "https://github.com/toeverything",
+      "repos": [
+        "https://api.github.com/repos/toeverything/affine",
+        "https://api.github.com/repos/toeverything/blocksuite",
+        "https://api.github.com/repos/toeverything/octobase",
+        "https://api.github.com/repos/toeverything/AFFiNE.pro"
+      ]
+    },
+    {
+      "id": 73,
+      "name": "Logseq",
+      "description": "A privacy-first, open-source platform for knowledge management and collaboration.",
+      "tags": ["clojure", "react", "rum", "typescript", "electron"],
+      "slug": "logseq",
+      "website": "https://logseq.com/",
+      "github": "https://github.com/logseq",
+      "repos": ["https://api.github.com/repos/logseq/logseq"]
+    },
+    {
+      "id": 74,
+      "name": "Jitsu",
+      "description": "Jitsu (YC S20) is an open-source data integration and event collection platform.",
+      "tags": ["react", "typescript", "golang"],
+      "slug": "jitsu",
+      "website": "https://jitsu.com/",
+      "github": "https://github.com/jitsucom",
+      "repos": ["https://api.github.com/repos/jitsucom/jitsu"]
+    },
+    {
+      "id": 75,
+      "name": "Twenty",
+      "description": "A modern CRM offering the flexibility of open source, advanced features, and a sleek design. Building a modern alternative to Salesforce.",
+      "tags": ["react", "typescript", "nestjs"],
+      "slug": "twenty",
+      "website": "https://twenty.com/",
+      "github": "https://github.com/twentyhq",
+      "repos": ["https://api.github.com/repos/twentyhq/twenty"]
+    },
+    {
+      "id": 76,
+      "name": "Theta",
+      "description": "Design server-driven no-code design systems with instant updates via API.",
+      "tags": ["flutter", "dart"],
+      "slug": "buildwiththeta",
+      "website": "https://buildwiththeta.com/",
+      "github": "https://github.com/buildwiththeta",
+      "repos": ["https://api.github.com/repos/buildwiththeta/buildwiththeta"]
+    },
+    {
+      "id": 77,
+      "name": "Coolify",
+      "description": "An open-source & self-hostable Heroku / Netlify alternative.",
+      "tags": ["php", "laravel", "vuejs"],
+      "slug": "coolify",
+      "website": "https://coolify.io/",
+      "github": "https://github.com/coollabsio",
+      "repos": ["https://api.github.com/repos/coollabsio/coolify"]
+    },
+    {
+      "id": 78,
+      "name": "Parabol",
+      "description": "Free online agile retrospective meeting tool",
+      "tags": ["nodejs", "react", "typescript"],
+      "slug": "parabol",
+      "website": "https://www.parabol.co/",
+      "github": "https://github.com/ParabolInc",
+      "repos": ["https://api.github.com/repos/ParabolInc/parabol"]
+    },
+    {
+      "id": 79,
+      "name": "Windmill",
+      "description": "Open-source developer platform to turn scripts into workflows and UIs. Open-source alternative to Airplane and Retool.",
+      "tags": [
+        "rust",
+        "svelte",
+        "javascript",
+        "typescript",
+        "python",
+        "golang"
+      ],
+      "slug": "windmill",
+      "website": "https://www.windmill.dev/",
+      "github": "https://github.com/windmill-labs",
+      "repos": ["https://api.github.com/repos/windmill-labs/windmill"]
+    },
+    {
+      "id": 80,
+      "name": "Bitwarden",
+      "description": "Open source password management solutions for individuals, teams, and business organizations.",
+      "tags": [
+        "electron",
+        "nodejs",
+        "typescript",
+        "angular",
+        "c#",
+        "dotnet",
+        "xamarin"
+      ],
+      "slug": "bitwarden",
+      "website": "https://bitwarden.com/",
+      "github": "https://github.com/bitwarden",
+      "repos": [
+        "https://api.github.com/repos/bitwarden/clients",
+        "https://api.github.com/repos/bitwarden/mobile",
+        "https://api.github.com/repos/bitwarden/server"
+      ]
+    },
+    {
+      "id": 81,
+      "name": "OpnForm",
+      "description": "Beautiful Open-Source Form Builder",
+      "tags": ["vuejs", "php", "laravel", "javascript"],
+      "slug": "opnform",
+      "website": "https://opnform.com/",
+      "github": "https://github.com/JhumanJ/OpnForm",
+      "repos": ["https://api.github.com/repos/JhumanJ/OpnForm"]
+    },
+    {
+      "id": 82,
+      "name": "Shuttle",
+      "description": "Build & ship backends without writing any infrastructure files.",
+      "tags": ["rust", "nextjs", "typescript", "react"],
+      "slug": "shuttle",
+      "website": "https://www.shuttle.rs/",
+      "github": "https://github.com/shuttle-hq",
+      "repos": [
+        "https://api.github.com/repos/shuttle-hq/shuttle",
+        "https://api.github.com/repos/shuttle-hq/www"
+      ]
+    },
+    {
+      "id": 83,
+      "name": "Shelf",
+      "description": "Build & ship backends without writing any infrastructure files.",
+      "tags": ["remix", "react", "typescript", "electron"],
+      "slug": "shelf",
+      "website": "https://www.shelf.nu/",
+      "github": "https://github.com/Shelf-nu",
+      "repos": [
+        "https://api.github.com/repos/Shelf-nu/shelf.nu",
+        "https://api.github.com/repos/Shelf-nu/desktop-apps"
+      ]
+    },
+    {
+      "id": 84,
+      "name": "Rowy",
+      "description": "Low-code backend for Google Cloud and CMS for Firestore.",
+      "tags": ["typescript", "react"],
+      "slug": "rowy",
+      "website": "https://www.rowy.io/",
+      "github": "https://github.com/rowyio",
+      "repos": ["https://api.github.com/repos/rowyio/rowy"]
+    },
+    {
+      "id": 85,
+      "name": "GrowthBook",
+      "description": "Open Source Feature Flagging and A/B Testing Platform",
+      "tags": ["nextjs", "typescript", "react", "expressjs", "nodejs"],
+      "slug": "growthbook",
+      "website": "https://www.growthbook.io/",
+      "github": "https://github.com/growthbook",
+      "repos": [
+        "https://api.github.com/repos/growthbook/growthbook",
+        "https://api.github.com/repos/growthbook/devtools"
+      ]
+    },
+    {
+      "id": 86,
+      "name": "HyperDX",
+      "description": "Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors.",
+      "tags": ["nextjs", "react", "fastapi", "python", "nodejs", "typescript"],
+      "slug": "hyperdx",
+      "website": "https://www.hyperdx.io/",
+      "github": "https://github.com/hyperdxio",
+      "repos": ["https://api.github.com/repos/hyperdxio/hyperdx"]
+    },
+    {
+      "id": 87,
+      "name": "ClickHouse",
+      "description": "ClickHouse is the fastest open-source OLAP database ⚡",
+      "tags": ["c++"],
+      "slug": "clickhouse",
+      "website": "https://clickhouse.com/",
+      "github": "https://github.com/ClickHouse",
+      "repos": ["https://api.github.com/repos/ClickHouse/ClickHouse"]
+    },
+    {
+      "id": 88,
+      "name": "Metabase",
+      "description": "The simplest, fastest way to get business intelligence and analytics to everyone in your company 😋",
+      "tags": ["clojure", "typescript", "react", "javascript"],
+      "slug": "metabase",
+      "website": "https://www.metabase.com/",
+      "github": "https://github.com/metabase",
+      "repos": ["https://api.github.com/repos/metabase/metabase"]
+    },
+    {
+      "id": 89,
+      "name": "Open Replay",
+      "description": "OpenReplay is developer-friendly, self-hosted session replay.",
+      "tags": ["react", "typescript", "golang", "python"],
+      "slug": "openreplay",
+      "website": "https://openreplay.com/",
+      "github": "https://github.com/openreplay",
+      "repos": ["https://api.github.com/repos/openreplay/openreplay"]
+    },
+    {
+      "id": 90,
+      "name": "Taiga",
+      "description": "Taiga is a free and open-source project management tool for cross-functional agile teams to work effectively.",
+      "tags": ["python", "fastapi", "django", "angular", "typescript"],
+      "slug": "taiga",
+      "website": "https://taiga.io/",
+      "github": "https://github.com/taigaio",
+      "repos": ["https://api.github.com/repos/taigaio/taiga/"]
+    },
+    {
+      "id": 91,
+      "name": "Outline",
+      "description": "The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.",
+      "tags": ["react", "typescript", "koa"],
+      "slug": "outline",
+      "website": "https://www.getoutline.com/",
+      "github": "https://github.com/outline",
+      "repos": ["https://api.github.com/repos/outline/outline/"]
+    },
+    {
+      "id": 92,
+      "name": "Chatwoot",
+      "description": "Open-source omnichannel customer engagement suite, an alternative to Intercom/Zendesk, built with a lot of love from the community.",
+      "tags": ["ruby on rails", "ruby", "vuejs", "javascript"],
+      "slug": "chatwoot",
+      "website": "https://www.chatwoot.com/",
+      "github": "https://github.com/chatwoot",
+      "repos": ["https://api.github.com/repos/chatwoot/chatwoot/"]
+    },
+    {
+      "id": 93,
+      "name": "RocketChat",
+      "description": "The communications platform that puts data protection first.",
+      "tags": ["typescript", "react native", "electron", "meteorjs"],
+      "slug": "RocketChat",
+      "website": "https://www.rocket.chat/",
+      "github": "https://github.com/RocketChat",
+      "repos": [
+        "https://api.github.com/repos/RocketChat/Rocket.Chat",
+        "https://api.github.com/repos/RocketChat/RocketChat/Rocket.Chat.Electron",
+        "https://api.github.com/repos/RocketChat/RocketChat/Rocket.Chat.ReactNative",
+        "https://api.github.com/repos/RocketChat/RocketChat/Rocket.Chat.Apps-engine"
+      ]
+    },
+    {
+      "id": 94,
+      "name": "OpenBB",
+      "description": "Make investment research accessible to everyone, anywhere.",
+      "tags": ["python"],
+      "slug": "openbb",
+      "website": "https://openbb.co/",
+      "github": "https://github.com/OpenBB-finance",
+      "repos": ["https://api.github.com/repos/OpenBB-finance/OpenBBTerminal"]
+    },
+    {
+      "id": 95,
+      "name": "OpenStatus",
+      "description": "The open-source monitoring service",
+      "tags": ["nextjs", "react", "typescript"],
+      "slug": "openstatus",
+      "website": "https://openstatus.dev/",
+      "github": "https://github.com/openstatusHQ",
+      "repos": ["https://api.github.com/repos/openstatusHQ/openstatus"]
+    },
+    {
+      "id": 96,
+      "name": "Webstudio",
+      "description": "Open Visual Development for the Open Web. Open Source Webflow alternative.",
+      "tags": ["remix", "react", "typescript"],
+      "slug": "webstudio",
+      "website": "https://webstudio.is/",
+      "github": "https://github.com/webstudio-is",
+      "repos": ["https://api.github.com/repos/webstudio-is/webstudio"]
+    }
+  ]
+}
