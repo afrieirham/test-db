@@ -1,1 +1,64 @@
-{"projects":[{"id":1,"name":"How?","description":"Scheduling infrastructure for absolutely everyone.","slug":"calcom","website":"https://cal.com","github":"https://github.com/calcom","tags":["react","nextjs","t3-stack","typescript","javascript","trpc"],"repos":["https://api.github.com/repos/calcom/cal.com","https://api.github.com/repos/calcom/synclinear.com"]},{"id":"sFqu_Sv1fBVe1Khtlel-v","name":"How?","description":"Scheduling infrastructure for absolutely everyone.","slug":"calcom","website":"https://cal.com","github":"https://github.com/calcom","tags":["react","nextjs","t3-stack","typescript","javascript","trpc"],"repos":["https://api.github.com/repos/calcom/cal.com","https://api.github.com/repos/calcom/synclinear.com"]}]}
+{
+  "projects": [
+    {
+      "id": 1,
+      "name": "How?",
+      "description": "Scheduling infrastructure for absolutely everyone.",
+      "slug": "calcom",
+      "website": "https://cal.com",
+      "github": "https://github.com/calcom",
+      "tags": [
+        "react",
+        "nextjs",
+        "t3-stack",
+        "typescript",
+        "javascript",
+        "trpc"
+      ],
+      "repos": [
+        "https://api.github.com/repos/calcom/cal.com",
+        "https://api.github.com/repos/calcom/synclinear.com"
+      ]
+    },
+    {
+      "id": "sFqu_Sv1fBVe1Khtlel-v",
+      "name": "How?",
+      "description": "Scheduling infrastructure for absolutely everyone.",
+      "slug": "calcom",
+      "website": "https://cal.com",
+      "github": "https://github.com/calcom",
+      "tags": [
+        "react",
+        "nextjs",
+        "t3-stack",
+        "typescript",
+        "javascript",
+        "trpc"
+      ],
+      "repos": [
+        "https://api.github.com/repos/calcom/cal.com",
+        "https://api.github.com/repos/calcom/synclinear.com"
+      ]
+    },
+    {
+      "id": "38sUeHEZq2jQ3aicOH1UP",
+      "name": "How?",
+      "description": "hehe",
+      "slug": "calcom",
+      "website": "https://cal.com",
+      "github": "https://github.com/calcom",
+      "tags": [
+        "react",
+        "nextjs",
+        "t3-stack",
+        "typescript",
+        "javascript",
+        "trpc"
+      ],
+      "repos": [
+        "https://api.github.com/repos/calcom/cal.com",
+        "https://api.github.com/repos/calcom/synclinear.com"
+      ]
+    }
+  ]
+}
